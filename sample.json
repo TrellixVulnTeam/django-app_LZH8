@@ -1,0 +1,296 @@
+{"data" : {
+"kg_panel":{
+"top_panel": "brand",
+},
+"brand" : [
+{
+"name" : "Name of Brand",
+"details" : {
+"name" : "groupName",
+"key" : "9999",
+"allocation" : "GNP80",
+"fee" : "1.03",
+"currentValue" : "643402",
+"accountDetails" : [
+{
+"name" : "Account Name",
+"key" : "99999",
+"type" : "402K",
+"currentValue" : "12345",
+"managed" : "true"
+},
+{
+"name" : "Account Name",
+"key" : "99999",
+"type" : "402K",
+"currentValue" : "12345",
+"managed" : "true"
+}
+]
+}
+},
+{
+"key" : "Id of rebalancing group",
+"details" : {
+"name" : "groupName",
+"key" : "8888",
+"allocation" : "GNP90",
+"fee" : "1.05",
+"currentValue" : "643402",
+"accountDetails" : [
+{
+"name" : "Account Name",
+"key" : "88888",
+"type" : "401K",
+"currentValue" : "54321",
+"managed" : "true"
+},
+{
+"name" : "Account Name",
+"key" : "88888",
+"type" : "401K",
+"currentValue" : "54321",
+"managed" : "true"
+}
+]
+}
+}
+],
+
+"clients" : [
+{
+"clientName" : "",
+"clientRole" : "",
+"visibility" : "",
+"phoneDetails" : [
+{
+"type" : "Home",
+"number" : "000-000-0000"
+},
+{
+"type" : "Work",
+"number" : "111-111-1111"
+},
+{
+"type" : "Office",
+"number" : "222-222-2222"
+}
+],
+"emailDetails" : [
+{
+"type" : "Primary Email",
+"value" : "abc123@gmail.com"
+},
+{
+"type" : "Secondary Email",
+"value" : "abc123@gmail.com"
+}
+]
+},
+{
+"clientName" : "",
+"clientRole" : "",
+"visibility" : "",
+"phoneDetails" : [
+{
+"type" : "Home",
+"number" : "000-000-0000"
+},
+{
+"type" : "Work",
+"number" : "111-111-1111"
+},
+{
+"type" : "Office",
+"number" : "222-222-2222"
+}
+],
+"emailDetails" : [
+{
+"type" : "Primary Email",
+"value" : "abc123@gmail.com"
+},
+{
+"type" : "Secondary Email",
+"value" : "abc123@gmail.com"
+}
+]
+}
+],
+"advisoryTeam" : [
+{
+"name" : "Jamie McDonald",
+"role" : "Primary Advisor",
+"email" : "jamie@gmail.com"
+},
+{
+"name" : "Amber Holly",
+"role" : "Secondary Advisor",
+"email" : "amber@gmail.com"
+},
+{
+"name" : "John Michaels",
+"role" : "Secondary Advisor",
+"email" : "amber@gmail.com"
+}
+],
+"netWorth" : {
+"totalAssets" : "600",
+"totalLiabilities" : "400",
+"netWorth" : "200",
+"assets" : [
+{
+"assetType" : "Managed Assets",
+"value" : "100",
+"subAssets" : [
+{
+"name" : "Rebalancing Group 1",
+"value" : "20000",
+"accountDetails" : [
+{
+"name" : "Account Name 1",
+"value" : "10000"
+},
+{
+"name" : "Account Name 2",
+"value" : "10000"
+},
+{
+"name" : "Account Name 3",
+"value" : "10000"
+}
+]
+},
+{
+"name" : "Rebalancing Group 2",
+"value" : "20000",
+"accountDetails" : [
+{
+"name" : "Account Name 1",
+"value" : "10000"
+},
+{
+"name" : "Account Name 2",
+"value" : "10000"
+},
+{
+"name" : "Account Name 3",
+"value" : "10000"
+}
+]
+},
+{
+"name" : "Rebalancing Group 3",
+"value" : "20000",
+"accountDetails" : [
+{
+"name" : "Account Name 1",
+"value" : "10000"
+},
+{
+"name" : "Account Name 2",
+"value" : "10000"
+},
+{
+"name" : "Account Name 3",
+"value" : "10000"
+}
+]
+}
+]
+},
+{
+"assetType" : "Unmanaged Assets",
+"value" : "200"
+},
+{
+"assetType" : "Savings",
+"value" : "300"
+}
+],
+"liabilities" : [
+{
+"liabilityType" : "Mortagage",
+"value" : "200"
+},
+{
+"liabilityType" : "Other",
+"value" : "200"
+}
+]
+},
+"incomeAndExpenses" : {
+"monthlyIncome" : "13000",
+"monthlyExpenses" : "6000",
+"netMonthlyCashFlow" : "7000",
+"netYearlyCashFlow" : "84000",
+"incomeDetails" : [
+{
+"source" : "John Income",
+"value" : "6000"
+},
+{
+"source" : "Jane Income",
+"value" : "7000"
+}
+],
+"expenseDetails" : [
+{
+"source" : "Housing",
+"value" : "4000"
+},
+{
+"source" : "Living Utilities",
+"value" : "6000"
+}
+]
+},
+"cashBalances" :{
+"emergencyFund" : "36000",
+"upcomingExpenses" : "6000",
+"cashNeeded" : "42000",
+"cashAvailable" : "110000",
+"cashDifference" : "68000",
+"emergencyFundDetails" : [
+{
+"source" : "Monthly Expenses",
+"value" : "36000"
+}
+],
+"upcomingExpensesDetails" : [
+{
+"source" : "Housing and Utilities",
+"value" : "4000"
+},
+{
+"source" : "Living Expenses",
+"value" : "2000"
+}
+]
+},
+"savingsWaterfall" : [
+{
+"account" : "401K conditions",
+"status" : "In progress",
+"target" : "18000"
+},
+{
+"account" : "Backdoor Roth IRAs",
+"status" : "In progress",
+"target" : "11000"
+}
+],
+"withdrawlPlan" : [
+{
+"account" : "401K conditions",
+"status" : "In progress",
+"target" : "18000"
+},
+{
+"account" : "Backdoor Roth IRAs",
+"status" : "In progress",
+"target" : "11000"
+}
+]
+}
+}

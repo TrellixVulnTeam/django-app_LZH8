@@ -1,0 +1,69 @@
+// For dow-corning 
+
+// search brand mock json-data for one brand
+'brand-name':  '- Dow Corning',
+'brand-link': 'http://www.dowcorning.com/fr_FR/content/webhelp/privacy_statement.asp',
+'brand-desc': 'Dow Corning Cookie Policy We use cookies to enhance your experience with Dow Corning. Learn how Technical Library ...'
+
+'brand-name':  '- Dow Corning',
+'brand-link': 'https://www.dowcorning.com/FAQ/faq_search.asp?2ndlevel=&DCWS=Elect',
+'brand-desc': 'Dow Corning Cookie Policy We use cookies to enhance your experience with Dow Corning. Learn how Technical Library ...'
+
+'brand-name':  '- Dow Corning',
+'brand-link': 'http://www.dowcorning.com/FAQ/faq_search.asp?2nd+level=&DCWS=Rubbe',
+'brand-desc': 'Dow Corning Cookie Policy We use cookies to enhance your experience with Dow Corning. Learn how Technical Library ...'
+
+'brand-name':  '- Dow Corning',
+'brand-link': 'http://www4.dowcorning.com/FAQ/faq_search.asp?2ndlevel=&DCWS=paper',
+'brand-desc': 'Dow Corning Cookie Policy We use cookies to enhance your experience with Dow Corning. Learn how Technical Library ...'
+
+'brand-name':  '- Dow Corning',
+'brand-link': 'http://www4.dowcorning.com/FAQ/faq_search.asp?2ndlevel=&DCWS=Elect',
+'brand-desc': 'Dow Corning Cookie Policy We use cookies to enhance your experience with Dow Corning. Learn how Technical Library ...'
+
+'brand-name':  '- Dow Corning',
+'brand-link': 'http://www4.dowcorning.com/FAQ/faq_search.asp?2ndlevel=&DCWS=Aviat',
+'brand-desc': 'Dow Corning Cookie Policy We use cookies to enhance your experience with Dow Corning. Learn how Technical Library ...'
+
+'brand-name':  '- Dow Corning',
+'brand-link': 'http://www4.dowcorning.com/FAQ/faq_search.asp?2ndlevel=&DCWS=Indus',
+'brand-desc': 'Dow Corning Cookie Policy We use cookies to enhance your experience with Dow Corning. Learn how Technical Library ...'
+
+'brand-name':  'Dow Corning Locations - Dow Corning',
+'brand-link': 'https://www.dowcorning.com/content/about/aboutlocn/?e=About+Dow+Cornin',
+'brand-desc': 'Dow Corning Cookie Policy We use cookies to enhance your experience with Dow Corning. Learn how Technical Library ...'
+
+'brand-name':  'Dow Corning Newsroom - Dow Corning',
+'brand-link': 'https://www.dowcorning.com/content/about/aboutmedia/?e=About+Dow+Corni',
+'brand-desc': 'Dow Corning Cookie Policy We use cookies to enhance your experience with Dow Corning. Learn how Technical Library ...'
+
+'brand-name':  'Dow Corning Foundation - Dow Corning',
+'brand-link': 'https://www.dowcorning.com/content/about/aboutcomm/dowcorningfoundatio',
+'brand-desc': 'Dow Corning Cookie Policy We use cookies to enhance your experience with Dow Corning. Learn how Technical Library ...'
+
+'brand-name':  'Contact Dow Corning - Dow Corning',
+'brand-link': 'https://www.dowcorning.com/content/about/aboutcomm/dowcorningfoundatio',
+'brand-desc': 'Dow Corning Cookie Policy We use cookies to enhance your experience with Dow Corning. Learn how Technical Library ...'
+
+'brand-name':  'Inside Dow Corning - Dow Corning',
+'brand-link': 'http://www.dowcorning.com/content/careers/careersinside/?e=',
+'brand-desc': 'Dow Corning Cookie Policy We use cookies to enhance your experience with Dow Corning. Learn how Technical Library ...'
+
+
+// kg_panel json-data
+
+1 Brand:
+    name: DOW CORNING®, logo: <img src="">
+    brand-link: 'http://www.dowcorning.com/content/about/',
+    decsription: 'Established in 1943 specifically to explore and develop the potential of silicones, Dow Corning is a global leader in silicon-based technology and innovation. We are passionate about silicon technology’s versatility, its possibilities and its unique potential to help solve some of the most important challenges facing our world. Through our Dow Corning® and XIAMETER® brands, we provide performance-enhancing products and solutions to mee...',
+    knowde_page_link: 'respected knowde_page redirect',
+2 Producer:
+    name: Dow Corning,
+    link: 'https://www.dowcorning.com/',
+    decsription: 'Dow Corning is a global leader in silicones, silicon-based technology and innovation. It offers more than 7,000 products and services via the Dow Corning® and XIAMETER® (www.xiameter.com) brands. The Dow Corning® brand serves customers who want specialty silicones, customized services and technical support. The XIAMETER® brand is the world's largest online portal for silicone materials. It serves customers who want to easily buy high ...',
+3 Products:
+    brand-name: 'Dow Corning',
+    brand-product: 'Dow corning® 1252 SURFACTANT',
+    brand-link: 'http://www.dowcorning.com/applications/search/default.aspx?R=159EN&DCCSF=1202EN',
+    brand-decsription: '50% silicone resin in solvent.Is chemically equivalent to XIAMETER® RSN 1252 RESIN.',
+    
